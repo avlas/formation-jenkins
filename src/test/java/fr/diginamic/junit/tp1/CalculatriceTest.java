@@ -36,7 +36,7 @@ public class CalculatriceTest {
 		
 		double retour = calculatrice.multiplication(a, b);
 		
-		assertEquals(retour, 3.0, 0.0);
+		assertEquals(retour, 4.0, 0.0);
 	}
 	
 	@Test
